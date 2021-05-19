@@ -6,7 +6,7 @@ It shows the effect of learning random noise when training a neural network mode
 
 ## Why I Training a Random Noise
 
-This idea came up with below refereces which deal with using a random noise when training a machine learning model. Random noise dataset could  be  generally  applied  as  the additional input data, weights, gradients, or outputs. Also, complex  inputs  like  noises  could  improve  the  OOD detection.
+This idea came up with below refereces which deal with using a random noise when training a machine learning model. Random noise dataset could  be  generally  applied  as  the additional input data, weights, gradients, or outputs.
 
 [Ref1](http://arxiv.org/abs/1511.06807) -  A.  Neelakantan  et  al.,  "Adding  Gradient  Noise  Improves Learning for Very Deep Networks,"  arXiv:1511.06807 [cs, stat],  Nov.  2015,  Accessed:  Mar.  31,  2021.  [Online]. Available: http://arxiv.org/abs/1511.06807. 
 
